@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x9RQUsW+lGITrYpNHLuoF4f8H6vCfNFwd2yA7RVukQ0=",
+  "Hash": "KBu44IZMTKhsrbyd00qF/eXGTbEvXbdlYxxw2Tmn7Vw=",
   "Source": "PokedexWebApp",
   "BasePath": "_content/PokedexWebApp",
   "Mode": "Default",
@@ -1269,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Intel i5\\source\\repos\\PokemonTestProject\\PokedexWebApp\\wwwroot\\js\\pokemon.js",
+      "SourceId": "PokedexWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Intel i5\\source\\repos\\PokemonTestProject\\PokedexWebApp\\wwwroot\\",
+      "BasePath": "_content/PokedexWebApp",
+      "RelativePath": "js/pokemon.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\pokemon.js"
     },
     {
       "Identity": "C:\\Users\\Intel i5\\source\\repos\\PokemonTestProject\\PokedexWebApp\\wwwroot\\js\\site.js",

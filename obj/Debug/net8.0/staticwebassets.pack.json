@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Intel i5\\source\\repos\\PokemonTestProject\\PokedexWebApp\\wwwroot\\js\\pokemon.js",
+      "PackagePath": "staticwebassets\\js\\pokemon.js"
+    },
+    {
       "Id": "C:\\Users\\Intel i5\\source\\repos\\PokemonTestProject\\PokedexWebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

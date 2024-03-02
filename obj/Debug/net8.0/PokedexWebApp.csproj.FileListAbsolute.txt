@@ -256,3 +256,4 @@ C:\Users\Intel i5\source\repos\PokemonTestProject\PokedexWebApp\obj\Debug\net8.0
 C:\Users\Intel i5\source\repos\PokemonTestProject\PokedexWebApp\obj\Debug\net8.0\PokedexWebApp.pdb
 C:\Users\Intel i5\source\repos\PokemonTestProject\PokedexWebApp\obj\Debug\net8.0\PokedexWebApp.genruntimeconfig.cache
 C:\Users\Intel i5\source\repos\PokemonTestProject\PokedexWebApp\obj\Debug\net8.0\ref\PokedexWebApp.dll
+C:\Users\Intel i5\source\repos\PokemonTestProject\PokedexWebApp\obj\Debug\net8.0\PokedexWebApp.sourcelink.json

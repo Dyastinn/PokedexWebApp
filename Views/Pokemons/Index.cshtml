@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<PokedexWebApp.Models.Pokemon>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Generation 1 Pokemon";
 }
 
 <h1>Index</h1>
@@ -9,11 +9,9 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+<table id="myTable" class="table" style="width: 100%">
     <thead>
         <tr>
-            <th>@Html.DisplayNameFor(model => model.Id)
-            </th>
             <th>
                 @Html.DisplayNameFor(model => model.Name)
             </th>
@@ -26,7 +24,7 @@
             <th></th>
         </tr>
     </thead>
-    <tbody>
+@*     <tbody>
 @foreach (var item in Model) {
         <tr>
             <td>
@@ -49,5 +47,9 @@
             </td>
         </tr>
 }
-    </tbody>
+    </tbody> *@
 </table>
+
+@section Scripts{
+    <script src="~/js/pokemon.js"></script>
+}
